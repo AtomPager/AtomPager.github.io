@@ -1,0 +1,6 @@
+{
+  "name": "index.html",
+  "tagline": "",
+  "body": "### Welcome to Atom Pager\r\n\r\nBeen doing IT Ops, Dev Ops, and straight development for many years.  But now that we are building very complex geographically distributed micro service applications.  The current approach of monitoring systems, paging, and incident management just fails.\r\n\r\nSo, introduce Atom Pager.  We are in the early stages of capturing our ideas, and trying to figure out how we want to approach this thing.  We will be writing this in .Net Core as much as we can, and probably going to open source the core components of the service, and then over time add a hosted solution as well.\r\n\r\nCheck back in a few months, and see where we are.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
